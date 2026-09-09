@@ -52,4 +52,6 @@ The book, the figures and the text are licensed under
 adapt the material for non-commercial purposes, with attribution, distributing derivative
 work under the same licence.
 
-The datasets remain under the terms of their original providers.
+ISBN: 978-65-02-35818-4
+
+
